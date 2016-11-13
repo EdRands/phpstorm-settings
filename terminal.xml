@@ -1,0 +1,5 @@
+<application>
+  <component name="TerminalOptionsProvider">
+    <option name="myShellPath" value="C:\Users\Ed\.babun\cygwin\bin\zsh.exe" />
+  </component>
+</application>
